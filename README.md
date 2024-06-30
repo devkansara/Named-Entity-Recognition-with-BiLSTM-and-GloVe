@@ -1,6 +1,6 @@
 # ner-bilstm-glove
 
-This repository contains the implementation of a Named Entity Recognition (NER) system using BiLSTM models, with and without pre-trained GloVe embeddings. This project was developed as part of the CSCI544 course at USC.
+This repository contains the implementation of a Named Entity Recognition (NER) system using BiLSTM models, with and without pre-trained GloVe embeddings.
 
 ## Project Structure
 
